@@ -29,7 +29,7 @@
 
 Hello Rails React is a sample Rails application that integrates React for frontend development. It demonstrates how to set up a Rails app with React, use react-router for routing, connect to a Rails API endpoint, and display data in a React component.
 
-Click [Here]()to take you to the frontend pull request.
+Click [Here](https://github.com/SabaAhmad404/hello-react-front-end/pull/1)to take you to the frontend pull request.
 
 ## 🛠 Built With <a name="built-with"></a>
 
